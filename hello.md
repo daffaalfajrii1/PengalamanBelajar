@@ -1,9 +1,4 @@
-# Hello
-
-
-**my name is daffa**
-<br>
-* Squash 1 [ ]
-* Squash 2 [ ]
-* Squash 3 [ ]
-
+# Hello saja
+* Update Squash 1
+* Update Squash 2
+* Update Squash 3
