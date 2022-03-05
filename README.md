@@ -9,7 +9,10 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
   * Belajar tentang apa itu Java dan alasan menggunakannya.
 
   * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
-
+  
+  * Coba Hal baru
+  
+  * Coba Hal baru 2
 
 **15 Juni 2021**  
 
