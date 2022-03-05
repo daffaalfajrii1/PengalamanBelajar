@@ -13,6 +13,7 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
   * Coba Hal baru
   
   * Coba Hal baru 2
+  * Coba Hal baru 3
 
 **15 Juni 2021**  
 
